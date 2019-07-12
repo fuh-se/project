@@ -1,1 +1,3 @@
-print txt
+#!bin/bash
+ls pwd
+
